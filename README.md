@@ -2,16 +2,16 @@
 
 访问
 
-https://github.com/hiuhonokjo/hiu/
+XXX.herokuapp.com/v2link/index.html
 或
 
-https://github.com/hiuhonokjo/hiu/
+XXX.cloud.okteto.net/v2link/index.html
 
 获取vless、vmess链接和二维码
 
 Vless & Vmess: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/hiuhonokjo/hiu) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) 
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
