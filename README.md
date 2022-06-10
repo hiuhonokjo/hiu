@@ -2,11 +2,10 @@
 
 访问
 
-XXX.herokuapp.com/v2link/index.html
-
+https://github.com/hiuhonokjo/hiu/
 或
 
-XXX.cloud.okteto.net/v2link/index.html
+https://github.com/hiuhonokjo/hiu/
 
 获取vless、vmess链接和二维码
 
